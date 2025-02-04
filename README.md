@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **README for HTTP Status Code API and Virtual Assistant API**
 
 ## **Introduction**
@@ -156,3 +157,6 @@ If your GitHub username is `johnDoe` and your repository is named `http-status-a
 **`https://github.com/johnDoe/http-status-api`**
 
 ---
+=======
+# api-assignment2
+>>>>>>> a2644e36daddc3d58e44c7a5d1b9976dc456e7bf
