@@ -2,6 +2,7 @@
 const express = require('express');
 const app = express();
 
+
 /*
 Task:
 You need to create an API that helps users understand different HTTP status codes and their meanings.
